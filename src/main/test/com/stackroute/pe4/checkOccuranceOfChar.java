@@ -1,75 +1,68 @@
-package com.company;
-
+package com.stackroute.pe4;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import static org.junit.Assert.*;
 
-public class checkOccuranceOfString {
-
-
-    OccuranceOfString occuranceOfString;
+public class checkOccuranceOfChar {
+    OccuranceOfChar occuranceOfChar;
     @Before
     public void setUp()
     {
-        occuranceOfString=new OccuranceOfString();
+        occuranceOfChar=new OccuranceOfChar();
     }
     @After
     public void tearDown()
     {
-        occuranceOfString=null;
+        occuranceOfChar=null;
     }
     String inputString="java count occurences of java";
     String inputChar="j";
-
+//pass case
     @Test
     public void testOccuranceOfCharSuccess()
     {
         String expectedValue="2",actualValue;
-        actualValue=occuranceOfString.occuranceOfCharInString(inputChar,inputString);
+        actualValue=occuranceOfChar.occuranceOfCharInString(inputChar,inputString);
         assertEquals(expectedValue,actualValue);
     }
-
+//failurecase
     @Test
     public void testOccuranceOfCharFailure()
     {
         String expectedValue="1",actualValue;
-        actualValue=occuranceOfString.occuranceOfCharInString(inputChar,inputString);
+        actualValue=occuranceOfChar.occuranceOfCharInString(inputChar,inputString);
         assertNotEquals(expectedValue,actualValue);
     }
 
-    String inputCharone="@";
-
+    //pass case
     @Test
     public void testOccuranceOfCharForSpecialCharInput()
     {
+        String inputCharone="@";
         String expectedValue="Enter other Character",actualValue;
-        actualValue=occuranceOfString.occuranceOfCharInString(inputCharone,inputString);
+        actualValue=occuranceOfChar.occuranceOfCharInString(inputCharone,inputString);
         assertEquals(expectedValue,actualValue);
     }
-
-    String inputCharTwo=" ";
-
+    //pasecase
     @Test
     public void testOccuranceOfCharrForEmptyCharInput()
     {
+        String inputCharTwo=" ";
         String expectedValue="Enter other Character",actualValue;
-        actualValue=occuranceOfString.occuranceOfCharInString(inputCharTwo,inputString);
+        actualValue=occuranceOfChar.occuranceOfCharInString(inputCharTwo,inputString);
         assertEquals(expectedValue,actualValue);
     }
-
-    String inputStringTwo=" ";
-
+    //pass case
     @Test
-    public void testOccuranceOfCharForEmptyString()
+    public void testOccuranceOfCharForNullString()
     {
-        String expectedValue="Enter other Character",actualValue;
-        actualValue=occuranceOfString.occuranceOfCharInString(inputCharTwo,inputStringTwo);
+        String inputStringTwo=null;
+        String inputCharTwo="a";
+        String expectedValue=null,actualValue;
+        actualValue=occuranceOfChar.occuranceOfCharInString(inputCharTwo,inputStringTwo);
         assertEquals(expectedValue,actualValue);
     }
-
-
 
 
 }

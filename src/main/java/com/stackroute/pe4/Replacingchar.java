@@ -1,4 +1,4 @@
-package com.company;
+package com.stackroute.pe4;
 
 public class  Replacingchar {
     public String replaceChar(String inputStringOrg){
@@ -6,17 +6,14 @@ public class  Replacingchar {
         {
             return null;
         }
-        else {
+        else
+            {
 
             String inputString = inputStringOrg.toLowerCase();
-            inputString = inputString.replace("d", "f");
+            inputString = inputString.replace("d", "f"); //replacing character
             inputString = inputString.replace("i", "t");
             return inputString;
-        }
+            }
     }
-    public static void main(String a[]){
-        Replacingchar m = new Replacingchar();
-        String x = m.replaceChar("uday");
-        System.out.println(x);
-    }
+
 }

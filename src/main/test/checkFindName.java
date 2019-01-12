@@ -1,26 +1,21 @@
-import com.company.OccuranceOfString;
+import com.stackroute.pe4.FindName;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import static org.junit.Assert.*;
-
 public class checkFindName {
 
-
     FindName findName;
-
     @Before
     public void setUp() {
+
         findName = new FindName();
     }
-
     @After
-    public void tearDown() {
+    public void tearDown()
+    {
         findName = null;
     }
-
-
     String inputString = "hello harry how are you";
 
     @Test

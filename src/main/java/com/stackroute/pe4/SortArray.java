@@ -1,5 +1,4 @@
-
-package com.company;
+package com.stackroute.pe4;
 import java.util.*;
 public class SortArray
     {
@@ -9,23 +8,14 @@ public class SortArray
                 return null;
             }
             else {
-                String[] myArray = inputStringToBeSorted.split(" ");
+                String[] myArray = inputStringToBeSorted.split(" "); //using regular exprestion to split string
                 ArrayList<String> list = new ArrayList<String>();
                 for (int i = 0; i < myArray.length; i++) {
                     list.add(myArray[i]);
                 }
-                Collections.sort(list);
-                System.out.print(list);
+                Collections.sort(list);   //sorting a list based on first character
                 return list;
-            }
+               }
         }
-    public static void main(String[] args) {
-        String inputString = " ";
-        SortArray sortArray=new SortArray();
-        ArrayList<String > list=new ArrayList<String>();
-        list=sortArray.sortingAnStringArray(inputString);
 
-
-
-    }
 }

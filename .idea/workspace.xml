@@ -27,10 +27,35 @@
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/company/OccuranceOfString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_PE1_withTestCases/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Java_pe1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../boilerplate2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/FindName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/MatcherFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/MatcherFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/TransposeOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/TransposeOfString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/com/company/OccuranceOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/com/company/Replacingchar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/com/company/Replacingchar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/com/company/SortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaPe4WithTestCases/com/company/SortArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/TransposeOfStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/TransposeOfStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/checkFindName.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/checkFindName.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/checkMatcherFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/checkMatcherFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/com/company/checkOccuranceOfString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/com/company/checkReplaceingchar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/com/company/checkReplaceingchar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/com/company/checkSortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaPe4WithTestCases/com/company/checkSortArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MatcherFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MatcherFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TransposeOfString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TransposeOfString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/FindName.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/OccuranceOfChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/Replacingchar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/company/SortArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/checkFindName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/checkFindName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/checkMatcherFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/checkMatcherFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/checkOccuranceOfCharString.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/checkReplaceingchar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/com/company/checkSortArray.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_SaiRamTestCases/Java_PE2_WithTestCases" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java_pe2_TestCases/.idea/vcs.xml" afterDir="false" />
@@ -61,58 +86,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkReplaceingchar.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/OccuranceOfChar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="375">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkSortArray.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/Replacingchar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/company/OccuranceOfString.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="101" selection-start-line="16" selection-start-column="101" selection-end-line="16" selection-end-column="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/TransposeOfString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkOccuranceOfString.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -120,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+            <state relative-caret-position="45">
+              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -130,10 +125,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FindName.java">
+        <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/checkSortArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="45">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindName.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -141,8 +148,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/checkFindName.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-314">
-              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="690">
+              <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,8 +160,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MatcherFind.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="315">
+              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/checkMatcherFind.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -163,16 +182,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/test/checkMatcherFind.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/TransposeOfString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+            <state relative-caret-position="255">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -200,28 +215,36 @@
         <option value="$PROJECT_DIR$/src/main/test/com/company/ReplaceingcharTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/OccuranceOfStringTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Calculator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/OccuranceOfString.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Replaceingchar.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/checkReplaceingchar.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/Replacingchar.java" />
         <option value="$PROJECT_DIR$/src/main/java/SortArray.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/company/SortArray.java" />
-        <option value="$PROJECT_DIR$/src/main/test/com/company/checkOccuranceOfString.java" />
-        <option value="$PROJECT_DIR$/src/main/java/FindName.java" />
         <option value="$PROJECT_DIR$/src/main/test/com/company/SortArrayTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/FindNameTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/MatcherFindTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TransposeOfString.java" />
-        <option value="$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MatcherFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/OccuranceOfString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/OccuranceOfChar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/checkReplaceingchar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/checkOccuranceOfString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/SortArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/FindName.java" />
+        <option value="$PROJECT_DIR$/src/main/test/checkFindName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/company/Replacingchar.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/checkSortArray.java" />
+        <option value="$PROJECT_DIR$/src/main/test/com/company/SortArray/checkSortArray.java" />
         <option value="$PROJECT_DIR$/src/main/test/checkMatcherFind.java" />
+        <option value="$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/OccuranceOfChar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/Replacingchar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortArray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MatcherFind.java" />
+        <option value="$PROJECT_DIR$/src/main/java/TransposeOfString.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="620" />
+    <option name="width" value="630" />
     <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -263,7 +286,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="pe4" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaPe4WithTestCases" type="b2602c69:ProjectViewProjectNode" />
@@ -271,14 +294,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaPe4WithTestCases" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaPe4WithTestCases" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,11 +306,12 @@
     <property name="Repository.Attach.Annotations" value="true" />
     <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547059886127" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547209912852" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/company" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataMungerStep4_Boilerplate" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/test/com/company" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -321,18 +337,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.checkMatcherFind">
-    <configuration name="MatcherFind" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MatcherFind" />
-      <module name="javaPe4WithTestCases" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TransposeOfStringTest">
     <configuration name="TransposeOfStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe4WithTestCases" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="TransposeOfStringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="checkFindName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaPe4WithTestCases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="checkFindName" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -341,44 +360,55 @@
       <module name="javaPe4WithTestCases" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="checkMatcherFind" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkMatcherFind.testMatchRetuenNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="checkReplaceingchar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe4WithTestCases" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="checkMatcherFind" />
-      <option name="METHOD_NAME" value="testMatchRetuenNull" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.checkReplaceingchar" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="checkMatcherFind.testMatchSuccess" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="checkSortArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaPe4WithTestCases" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="checkMatcherFind" />
-      <option name="METHOD_NAME" value="testMatchSuccess" />
-      <option name="TEST_OBJECT" value="method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.checkSortArray" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MatcherFind" />
-      <item itemvalue="JUnit.TransposeOfStringTest" />
-      <item itemvalue="JUnit.checkMatcherFind.testMatchSuccess" />
+      <item itemvalue="JUnit.checkReplaceingchar" />
+      <item itemvalue="JUnit.checkSortArray" />
+      <item itemvalue="JUnit.checkFindName" />
       <item itemvalue="JUnit.checkMatcherFind" />
-      <item itemvalue="JUnit.checkMatcherFind.testMatchRetuenNull" />
+      <item itemvalue="JUnit.TransposeOfStringTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.checkMatcherFind" />
-        <item itemvalue="JUnit.checkMatcherFind.testMatchRetuenNull" />
-        <item itemvalue="JUnit.checkMatcherFind.testMatchSuccess" />
-        <item itemvalue="Application.MatcherFind" />
         <item itemvalue="JUnit.TransposeOfStringTest" />
+        <item itemvalue="JUnit.checkMatcherFind" />
+        <item itemvalue="JUnit.checkReplaceingchar" />
+        <item itemvalue="JUnit.checkFindName" />
+        <item itemvalue="JUnit.checkSortArray" />
       </list>
     </recent_temporary>
   </component>
@@ -396,42 +426,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FindNameTest_testReplacingSuccessone - 2019.01.09 at 23h 29m 15s.xml">
-      <configuration name="FindNameTest.testReplacingSuccessone" configurationId="JUnit" />
+    <history-entry file="checkOccuranceOfString - 2019.01.11 at 14h 46m 21s.xml">
+      <configuration name="checkOccuranceOfString" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindNameTest_testReplacingSuccessone - 2019.01.09 at 23h 29m 29s.xml">
-      <configuration name="FindNameTest.testReplacingSuccessone" configurationId="JUnit" />
+    <history-entry file="checkOccuranceOfChar - 2019.01.11 at 14h 47m 06s.xml">
+      <configuration name="checkOccuranceOfChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindNameTest_testReplacingSuccessone - 2019.01.09 at 23h 29m 58s.xml">
-      <configuration name="FindNameTest.testReplacingSuccessone" configurationId="JUnit" />
+    <history-entry file="checkOccuranceOfChar - 2019.01.11 at 14h 48m 06s.xml">
+      <configuration name="checkOccuranceOfChar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FindNameTest - 2019.01.09 at 23h 31m 24s.xml">
-      <configuration name="FindNameTest" configurationId="JUnit" />
+    <history-entry file="checkReplaceingchar - 2019.01.11 at 14h 52m 33s.xml">
+      <configuration name="checkReplaceingchar" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="checkMatcherFind - 2019.01.09 at 23h 35m 30s.xml">
+    <history-entry file="checkSortArray - 2019.01.11 at 14h 53m 08s.xml">
+      <configuration name="checkSortArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkSortArray - 2019.01.11 at 14h 56m 25s.xml">
+      <configuration name="checkSortArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkFindName - 2019.01.11 at 14h 57m 53s.xml">
+      <configuration name="checkFindName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkReplaceingchar - 2019.01.11 at 14h 59m 19s.xml">
+      <configuration name="checkReplaceingchar" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="checkMatcherFind - 2019.01.11 at 15h 03m 07s.xml">
       <configuration name="checkMatcherFind" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TransposeOfStringTest_testTransposeofStringSuccess - 2019.01.09 at 23h 39m 13s.xml">
-      <configuration name="TransposeOfStringTest.testTransposeofStringSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TransposeOfStringTest_testTransposeofStringFailure - 2019.01.09 at 23h 39m 22s.xml">
-      <configuration name="TransposeOfStringTest.testTransposeofStringFailure" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="TransposeOfStringTest - 2019.01.09 at 23h 39m 27s.xml">
+    <history-entry file="TransposeOfStringTest - 2019.01.11 at 15h 04m 40s.xml">
       <configuration name="TransposeOfStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="checkMatcherFind_testMatchSuccess - 2019.01.10 at 00h 19m 41s.xml">
-      <configuration name="checkMatcherFind.testMatchSuccess" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="checkMatcherFind - 2019.01.10 at 00h 19m 47s.xml">
-      <configuration name="checkMatcherFind" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24660814" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27055067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,7 +469,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27361563" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5011971" side_tool="true" weight="0.27687296" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -448,7 +477,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49880287" weight="0.048859935" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -495,109 +524,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/checkReplaceingchar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding>
-            <element signature="e#126#127#0" expanded="true" />
-            <element signature="e#150#151#0" expanded="true" />
-          </folding>
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/SortArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/checkOccuranceOfChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-          <folding>
-            <element signature="e#656#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Replacingchar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/OccuranceOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="101" selection-start-line="16" selection-start-column="101" selection-end-line="16" selection-end-column="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkOccuranceOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkReplaceingchar.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/OccuranceOfChar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/com/company/checkSortArray.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/Replacingchar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/checkFindName.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/SortArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-314">
-          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/FindName.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TransposeOfString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="83" selection-start-line="15" selection-start-column="83" selection-end-line="15" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/TransposeOfStringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        <state relative-caret-position="45">
+          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/com/stackroute/pe4/checkSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe4/FindName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/checkFindName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -606,8 +609,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/MatcherFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state relative-caret-position="315">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -616,14 +619,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/checkMatcherFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="60">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TransposeOfString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
