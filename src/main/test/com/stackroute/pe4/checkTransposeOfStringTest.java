@@ -1,8 +1,10 @@
+package com.stackroute.pe4;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-public class TransposeOfStringTest {
+public class checkTransposeOfStringTest {
     TransposeOfString transposeOfString;
     @Before
     public void setUp() throws Exception {
