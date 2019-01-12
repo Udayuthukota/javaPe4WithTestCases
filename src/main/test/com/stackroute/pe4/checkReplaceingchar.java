@@ -3,7 +3,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-public class checkReplaceingchar {
+public class checkReplaceingchar
+{
 
     Replacingchar replaceingchar;
     @Before
@@ -18,7 +19,7 @@ public class checkReplaceingchar {
     }
 
     String inputString="daily dry";
-
+    //pass case for input one
     @Test
     public void testReplacingSuccess()
     {
@@ -26,7 +27,7 @@ public class checkReplaceingchar {
         actualValue=replaceingchar.replaceChar(inputString);
         assertEquals(expectedValue,actualValue);
     }
-
+    //failure case for input
     @Test
     public void testReplacingFailure()
     {
@@ -42,7 +43,7 @@ public class checkReplaceingchar {
         actualValue=replaceingchar.replaceChar(null);
         assertEquals(expectedValue,actualValue);
     }
-
+    //when input is empty string
     @Test
     public void testReplacingEmptyString()
     {
@@ -50,8 +51,4 @@ public class checkReplaceingchar {
         actualValue=replaceingchar.replaceChar(" ");
         assertEquals(expectedValue,actualValue);
     }
-
-
-
-
 }

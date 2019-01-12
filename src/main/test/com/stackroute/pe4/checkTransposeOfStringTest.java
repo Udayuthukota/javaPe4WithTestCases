@@ -4,7 +4,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-public class checkTransposeOfStringTest {
+public class checkTransposeOfStringTest
+{
     TransposeOfString transposeOfString;
     @Before
     public void setUp() throws Exception {
@@ -17,7 +18,7 @@ public class checkTransposeOfStringTest {
     }
 
     String inputString="I am uday uthukota";
-
+    //pass code for sample input
     @Test
     public void testTransposeofStringSuccess()
     {
@@ -25,7 +26,7 @@ public class checkTransposeOfStringTest {
         actualValue=transposeOfString.transpose(inputString);
         assertEquals(expectedValue,actualValue);
     }
-
+    //fail code for sample input
     @Test
     public void testTransposeofStringFailure()
     {
@@ -33,7 +34,7 @@ public class checkTransposeOfStringTest {
         actualValue=transposeOfString.transpose(inputString);
         assertNotEquals(expectedValue,actualValue);
     }
-
+    //when input is null
     @Test
     public void testTransposeofStringForNullInput()
     {
@@ -41,7 +42,7 @@ public class checkTransposeOfStringTest {
         actualValue=transposeOfString.transpose(null);
         assertEquals(expectedValue,actualValue);
     }
-
+    //when input string in empty
     @Test
     public void testTransposeofStringForEmptyInput()
     {

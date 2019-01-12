@@ -3,8 +3,8 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 import static org.junit.Assert.*;
-
-public class checkOccuranceOfChar {
+public class checkOccuranceOfChar
+ {
     OccuranceOfChar occuranceOfChar;
     @Before
     public void setUp()
@@ -18,7 +18,7 @@ public class checkOccuranceOfChar {
     }
     String inputString="java count occurences of java";
     String inputChar="j";
-//pass case
+    //pass case
     @Test
     public void testOccuranceOfCharSuccess()
     {
@@ -26,7 +26,7 @@ public class checkOccuranceOfChar {
         actualValue=occuranceOfChar.occuranceOfCharInString(inputChar,inputString);
         assertEquals(expectedValue,actualValue);
     }
-//failurecase
+    //failurecase
     @Test
     public void testOccuranceOfCharFailure()
     {
@@ -63,6 +63,4 @@ public class checkOccuranceOfChar {
         actualValue=occuranceOfChar.occuranceOfCharInString(inputCharTwo,inputStringTwo);
         assertEquals(expectedValue,actualValue);
     }
-
-
-}
+ }

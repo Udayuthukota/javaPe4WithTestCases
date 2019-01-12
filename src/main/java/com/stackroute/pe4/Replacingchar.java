@@ -1,7 +1,16 @@
-package com.stackroute.pe4;
+/*
+Write a program to replace all d with f and all l with t in the given String
+        Input: daily dry
+        Output: faity fry
+        Original string: daily dry
+        New String: faity fry
+*/
 
-public class  Replacingchar {
-    public String replaceChar(String inputStringOrg){
+package com.stackroute.pe4;
+public class  Replacingchar
+{
+    public String replaceChar(String inputStringOrg)
+    {
         if(inputStringOrg==null|| inputStringOrg.equals(" "))
         {
             return null;

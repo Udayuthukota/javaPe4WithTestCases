@@ -5,21 +5,21 @@ import org.junit.Before;
 import org.junit.Test;
 import java.util.ArrayList;
 import static org.junit.Assert.*;
-public class checkSortArray {
+public class checkSortArray
+{
 
     SortArray sortArray;
     @Before
-    public void setUp() throws Exception {
+    public void setUp() throws Exception
+    {
         sortArray=new SortArray();
     }
-
     @After
     public void tearDown() throws Exception {
         sortArray=null;
     }
-
     String inputString="my name id uday";
-
+    //pass code fot someinput
     @Test
     public void testSortingAStringArrySuccess()
     {
@@ -33,7 +33,7 @@ public class checkSortArray {
         actualValue=sortArray.sortingAnStringArray(inputString);
         assertEquals(expectedValue,actualValue);
     }
-
+    //fail case for some input
     @Test
     public void testSortingAStringArryFailure()
     {
@@ -46,7 +46,7 @@ public class checkSortArray {
         actualValue=sortArray.sortingAnStringArray(inputString);
         assertNotEquals(expectedValue,actualValue);
     }
-
+    //Checking for null input
     @Test
     public void testSortingAStringForNullInput()
     {
@@ -56,6 +56,7 @@ public class checkSortArray {
         actualValue=sortArray.sortingAnStringArray(null);
         assertEquals(expectedValue,actualValue);
     }
+    //Checking when  input is empty string
     @Test
     public void testSortingAStringForEmptyInput()
     {
@@ -65,9 +66,4 @@ public class checkSortArray {
         actualValue=sortArray.sortingAnStringArray(" ");
         assertEquals(expectedValue,actualValue);
     }
-
-
-
-
-
 }
