@@ -16,7 +16,7 @@ public class SortArray
                 {
                 String[] myArray = inputStringToBeSorted.split(" "); //using regular exprestion to split string
                 ArrayList<String> list = new ArrayList<String>();
-                for (int i = 0; i < myArray.length; i++)
+                  for (int i = 0; i < myArray.length; i++)
                   {
                     list.add(myArray[i]);
                   }
